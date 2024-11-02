@@ -18,10 +18,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Observe ICMP Traffic
-- Observe SSH Traffic
-- Observe DNS Traffic
-- Observe RDP Traffic
+-
+- 
+- 
+- 
 
 <h2>Deployment and Configuration Steps</h2>
 
